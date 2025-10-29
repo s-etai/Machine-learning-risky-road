@@ -1,0 +1,26 @@
+# Unity cache folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Python virtual environment
+mlagents-venv/
+venv/
+__pycache__/
+
+# Exclude large or unnecessary ML outputs
+# (Keep results/ if models are small)
+# results/   <-- intentionally included
+
+# Ignore any other system files
+*.DS_Store
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb

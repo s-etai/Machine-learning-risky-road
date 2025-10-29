@@ -1,0 +1,29 @@
+{
+    "TruckAgent": {
+        "checkpoints": [
+            {
+                "steps": 389173,
+                "file_path": "results\\TruckRun12\\TruckAgent\\TruckAgent-389173.onnx",
+                "reward": -0.764438765518593,
+                "creation_time": 1761531442.63702,
+                "auxillary_file_paths": [
+                    "results\\TruckRun12\\TruckAgent\\TruckAgent-389173.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 389173,
+            "file_path": "results\\TruckRun12\\TruckAgent.onnx",
+            "reward": -0.764438765518593,
+            "creation_time": 1761531442.63702,
+            "auxillary_file_paths": [
+                "results\\TruckRun12\\TruckAgent\\TruckAgent-389173.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.8.0+cpu"
+    }
+}

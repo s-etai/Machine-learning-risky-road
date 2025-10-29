@@ -1,0 +1,65 @@
+{
+    "TruckAgent": {
+        "checkpoints": [
+            {
+                "steps": 999849,
+                "file_path": "results\\TruckRun18\\TruckAgent\\TruckAgent-999849.onnx",
+                "reward": 1.2592648983001709,
+                "creation_time": 1761578147.304189,
+                "auxillary_file_paths": [
+                    "results\\TruckRun18\\TruckAgent\\TruckAgent-999849.pt"
+                ]
+            },
+            {
+                "steps": 1499913,
+                "file_path": "results\\TruckRun18\\TruckAgent\\TruckAgent-1499913.onnx",
+                "reward": -6.36060411992826,
+                "creation_time": 1761578991.051858,
+                "auxillary_file_paths": [
+                    "results\\TruckRun18\\TruckAgent\\TruckAgent-1499913.pt"
+                ]
+            },
+            {
+                "steps": 1999799,
+                "file_path": "results\\TruckRun18\\TruckAgent\\TruckAgent-1999799.onnx",
+                "reward": 1.9496221542358398,
+                "creation_time": 1761579830.6307192,
+                "auxillary_file_paths": [
+                    "results\\TruckRun18\\TruckAgent\\TruckAgent-1999799.pt"
+                ]
+            },
+            {
+                "steps": 2499799,
+                "file_path": "results\\TruckRun18\\TruckAgent\\TruckAgent-2499799.onnx",
+                "reward": null,
+                "creation_time": 1761580644.4191258,
+                "auxillary_file_paths": [
+                    "results\\TruckRun18\\TruckAgent\\TruckAgent-2499799.pt"
+                ]
+            },
+            {
+                "steps": 2909799,
+                "file_path": "results\\TruckRun18\\TruckAgent\\TruckAgent-2909799.onnx",
+                "reward": null,
+                "creation_time": 1761581373.1155524,
+                "auxillary_file_paths": [
+                    "results\\TruckRun18\\TruckAgent\\TruckAgent-2909799.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2909799,
+            "file_path": "results\\TruckRun18\\TruckAgent.onnx",
+            "reward": null,
+            "creation_time": 1761581373.1155524,
+            "auxillary_file_paths": [
+                "results\\TruckRun18\\TruckAgent\\TruckAgent-2909799.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.8.0+cpu"
+    }
+}
