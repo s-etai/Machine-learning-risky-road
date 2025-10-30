@@ -7,8 +7,7 @@ Developed using **Unity**, **ML-Agents**, and **PyTorch**.
 
 ## Project Overview
 
-In this project, an AI agent learns to play a recreation of the mobile game [Risky Road](https://play.google.com/store/apps/details?id=com.ketchapp.riskyroad).  
-The game is a 2D challenge where you drive a pickup truck carrying an egg in the bed. The goal is to navigate tricky terrain without letting the egg fall.  
+In this project, an AI agent learns to play a recreation of the mobile game [Risky Road](https://play.google.com/store/apps/details?id=com.ketchapp.riskyroad). The game is a 2D challenge where you drive a pickup truck carrying an egg in the bed. The goal is to navigate tricky terrain without letting the egg fall.  
 
 I trained a reinforcement learning model that surpasses human performance: the AI achieves a high score of 160, compared to my personal best of 50.
 
